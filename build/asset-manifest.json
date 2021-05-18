@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2c33128d.chunk.css",
+    "main.js": "/static/js/main.e586391b.chunk.js",
+    "main.js.map": "/static/js/main.e586391b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6e74cd03.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6e74cd03.js.map",
+    "static/css/2.0f7ccd32.chunk.css": "/static/css/2.0f7ccd32.chunk.css",
+    "static/js/2.9237c637.chunk.js": "/static/js/2.9237c637.chunk.js",
+    "static/js/2.9237c637.chunk.js.map": "/static/js/2.9237c637.chunk.js.map",
+    "static/js/3.8eab849f.chunk.js": "/static/js/3.8eab849f.chunk.js",
+    "static/js/3.8eab849f.chunk.js.map": "/static/js/3.8eab849f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.0f7ccd32.chunk.css.map": "/static/css/2.0f7ccd32.chunk.css.map",
+    "static/css/main.2c33128d.chunk.css.map": "/static/css/main.2c33128d.chunk.css.map",
+    "static/js/2.9237c637.chunk.js.LICENSE.txt": "/static/js/2.9237c637.chunk.js.LICENSE.txt",
+    "static/media/flame-remote-working.9d6aa5e6.png": "/static/media/flame-remote-working.9d6aa5e6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e74cd03.js",
+    "static/css/2.0f7ccd32.chunk.css",
+    "static/js/2.9237c637.chunk.js",
+    "static/css/main.2c33128d.chunk.css",
+    "static/js/main.e586391b.chunk.js"
+  ]
+}

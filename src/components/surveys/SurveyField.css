@@ -1,0 +1,31 @@
+.surveyField__wrapper {
+    padding: 1.5rem;
+    padding-bottom: 1rem;
+}
+.surveyField {
+    padding: 0.5rem 1.5rem;
+}
+.surveyField:last-child {
+    padding-bottom: 1rem;
+}
+.surveyFormReview__title,
+.surveyForm__title {
+    font-weight: 600;
+    text-transform: uppercase;
+    padding: 2rem 0 0 3rem;
+}
+.surveyFormReview__contents {
+    padding: 2rem;
+}
+.surveyFormReview__content {
+    padding: 1rem;
+}
+.surveyReviewForm__data {
+    margin-top: 1rem;
+}
+.surveyReviewForm__cancel {
+    margin-left: 3rem;
+}
+.surveyReviewForm__submit {
+    margin-left: 2rem;
+}

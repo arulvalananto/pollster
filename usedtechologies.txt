@@ -1,0 +1,6 @@
+React
+Redux
+Stripe
+Sendgrid
+Passport
+google cloud (google+ api enabled)
